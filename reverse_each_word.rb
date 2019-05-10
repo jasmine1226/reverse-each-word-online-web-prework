@@ -3,5 +3,5 @@ def reverse_each_word(string)
   array.each do |word|
     word.reverse
   end
-  return sring
+  return string
 end
